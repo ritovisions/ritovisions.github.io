@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Feb 2025 16:14:58 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>欢迎来到瑞途万象</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Thu, 27 Feb 2025 16:14:58 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;亲爱的朋友们，欢迎踏入瑞途万象的数字世界！我们是一支满怀热忱与梦想的个人团队，怀着对探索和分享的执着，精心打造了这个网站。&#xA;在瑞途万象，我们希望成为你获取多元知识、激发灵感的源泉。这里有深度的行业洞察，带你剖析前沿动态；有实用的技能分享，助力你提升自我；也有充满趣味的生活故事，让你在繁忙生活中寻得片刻惬意。&#xA;我们相信，每一次点击都是一次相遇，每一次浏览都是一次交流。无论你是初来乍到的访客，还是长期相伴的老友，我们都期待与你一同成长。在这个信息的海洋里，瑞途万象愿成为你的灯塔，照亮你求知的道路。&#xA;再次感谢你的到来，愿你在瑞途万象的每一次体验都充实而美好。如果你有任何想法、建议或故事，欢迎随时与我们分享，让我们共同书写瑞途万象的精彩篇章。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
